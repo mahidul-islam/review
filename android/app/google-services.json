@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872886121868",
+    "project_id": "review-app-dream",
+    "storage_bucket": "review-app-dream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872886121868:android:8b503640ebc7f50ab252a9",
+        "android_client_info": {
+          "package_name": "com.example.review"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872886121868-cof2o8u0pq62kqbtn0qs4e45f5vrggcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.review",
+            "certificate_hash": "f0fcbb4d69e60e6dedf8f7b4f7761df4cb293322"
+          }
+        },
+        {
+          "client_id": "872886121868-64s42rlm0gilu9m5on3kdeip8q8g74ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nAqae68_7Fe_eSgMEJq4ET3al82NyHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872886121868-64s42rlm0gilu9m5on3kdeip8q8g74ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
